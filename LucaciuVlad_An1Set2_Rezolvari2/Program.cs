@@ -103,7 +103,7 @@ namespace LucaciuVlad_An1Set2_Rezolvari2
         
         static void Main(string[] args)
         {
-            //s2p1(); //Se da o secventa de n numere. Sa se determine cate din ele sunt pare. 
+            //s2p1(); //Se da o secventa de n numere. Sa se determine cate din ele sunt pare.
             //s2p2(); // Se da o secventa de n numere. Sa se determina cate sunt negative, cate sunt zero si cate sunt pozitive.
             //s2p3(); // Calculati suma si produsul numerelor de la 1 la n. 
             //s3p1(); // Calculati suma elementelor unui vector de n numere citite de la tastatura. Rezultatul se va afisa pe ecran.
